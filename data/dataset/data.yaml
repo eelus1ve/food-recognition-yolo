@@ -1,0 +1,6 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 18
+names: ['borsch', 'empty glass saucer', 'empty glass tea cup', 'empty plate of borsch', 'empty plate of greek salad', 'empty plate of pumpkin soup', 'empty plate of vegetable salad', 'empty shot glass', 'full glass cup of tea', 'full shot glass', 'glass teapot', 'greek salad', 'meat', 'pile of onions', 'pumpkin soup', 'sandwiches with lard', 'the chicken', 'vegetable salad']

@@ -1,0 +1,20 @@
+paths:
+  data_dir: data/
+  videos: data/videos
+  frames_extracted: data/frames/extracted
+  frames_processed: data/frames/processed
+  output_videos: outputs/videos
+  models_dir: models/
+  current_model: models/my_models/best.pt
+  dataset_yaml: data/dataset/data.yaml
+  test_dir: data/dataset/test
+
+yolo:
+  imgsz: 640
+  batch: 32
+  epochs: 400
+  lr0: 0.001
+  device: cuda
+
+video:
+  fps: 30
