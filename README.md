@@ -55,7 +55,11 @@ food-recognition-yolo/
 │       ├── config.py
 │       ├── metrix.py
 │       └── model_on_frame.py
+├── config.yaml
+├── predict.py
+├── train.py
 ├── README.md
+├── LICENSE
 ├── report.md
 └── requirements.txt
 
